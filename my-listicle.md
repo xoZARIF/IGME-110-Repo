@@ -1,4 +1,4 @@
-# List of colours on the rainbow :rainbow:
+# Colors of the Rainbow!! :rainbow:
 
 ---
 
