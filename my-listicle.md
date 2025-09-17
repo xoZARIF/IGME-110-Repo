@@ -3,7 +3,7 @@
 ---
 
 ## [Red](https://en.wikipedia.org/wiki/Red)
-![red](https://en.wikipedia.org/wiki/File:Shades_of_Red.svg)
+![red]([https://en.wikipedia.org/wiki/File:Shades_of_Red.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Shades_of_Red.svg/250px-Shades_of_Red.svg.png))
 - Shades of red:
     - Maroon
     - Crimson
