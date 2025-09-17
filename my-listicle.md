@@ -1,4 +1,4 @@
-:rainbow: # Colors of the Rainbow!! :rainbow:
+# Colors of the Rainbow!! :rainbow:
 
 ---
 
